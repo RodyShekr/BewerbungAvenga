@@ -552,9 +552,9 @@ background-image: linear-gradient(60deg, #29323c 0%, #485563 100%);
         font-weight: 500;
     }
 }
-/* End of Keyframes */
+/* End Keyframes */
 
-/*Media Query for Tablets*/
+/*Media Query Tablets*/
 @media only screen and (min-width: 768px) {
     .cta{
         font-size: 2.5rem;
@@ -656,7 +656,7 @@ background-image: linear-gradient(60deg, #29323c 0%, #485563 100%);
     }
     /*End Kontakt*/
 }
-/*End Media Query for Tablets*/
+/*End Media Query Tablets*/
 @media only screen and (min-width: 1200px) {
     
     /*header*/
@@ -682,7 +682,7 @@ background-image: linear-gradient(60deg, #29323c 0%, #485563 100%);
 
 /* End header*/
 
-/*Media Query for Desktop*/
+/*Media Query Desktop*/
 #inh-verz .inh-verz-bottom .inh-verz-item{
     flex-basis: 22%;
     margin: 1.5%;
